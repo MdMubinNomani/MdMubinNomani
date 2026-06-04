@@ -1,2 +1,2 @@
 
-/* ![galaxy](./assets/ASCII-Galaxy-animation.gif) */
+ [galaxy](./assets/ASCII-Galaxy-animation.gif)
